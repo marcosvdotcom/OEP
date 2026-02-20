@@ -1,5 +1,7 @@
 display_name,stub,dropdown_parent
 Home,/
+Inquiry Kits,,
+Environmental History,/environmental.html,Inquiry Kits
 Browse,/browse.html
 Subjects,/subjects.html
 Locations,/locations.html
