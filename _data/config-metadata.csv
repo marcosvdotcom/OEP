@@ -3,6 +3,7 @@ title,Title,
 url,Link,,true
 creator,Creator,
 date,Date Created,
+archival_date,Date Range
 description,Description,
 subject,Subjects,true
 location,Location
